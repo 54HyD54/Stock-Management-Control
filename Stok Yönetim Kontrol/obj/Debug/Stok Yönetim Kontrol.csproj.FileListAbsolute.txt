@@ -1,0 +1,8 @@
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\bin\Debug\Stok Yönetim Kontrol.exe.config
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\bin\Debug\Stok Yönetim Kontrol.exe
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\bin\Debug\Stok Yönetim Kontrol.pdb
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\obj\Debug\Stok Yönetim Kontrol.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\obj\Debug\Stok Yönetim Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\obj\Debug\Stok Yönetim Kontrol.exe
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\obj\Debug\Stok Yönetim Kontrol.pdb
+C:\Users\hasan\source\repos\Stok Yönetim Kontrol\Stok Yönetim Kontrol\obj\Debug\Stok Yönetim Kontrol.exe.config
